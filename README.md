@@ -1,7 +1,6 @@
 # cake-tasks
 
-Official website for Cake
-https://cakebuild.net/
+Official website for [Cake](https://cakebuild.net/)
 
 Basic cake task is used.
 
